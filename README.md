@@ -1,2 +1,4 @@
-# Genereer-XML-kunstwerken
-Met deze scripts kun je op basis van bijgevoegde csv XML invoerbestanden voor Riskeer genereren.
+Functionaliteit:
+Met deze scriptjes kun je op basis van bijgevoegde CSV XML invoerbestanden voor Riskeer genereren. 
+Doel: 
+Invoer vergemakkelijken door duidelijke invoerkopjes en direct koppelen van HR punt.
